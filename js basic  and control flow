@@ -105,8 +105,11 @@ console.log(number);
 
 ..................................................
 8.3. Alert, prompt and confirm
-
-// Alert
+console.log > checking or debugging output
+alert> Notification
+confirm> either yes or no
+prompt> to take input from user
+// Alert == 
 alert(10 % 3);
 < 1
 
