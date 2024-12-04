@@ -12,4 +12,14 @@ Lecture 1: Introduction to NodeJS | NodeJS Complete Course
 JS is required for Node js
 React is recommended before node js
 
-1st chapter done playlist available
+2nd ch: in terminal and command line:
+check node version: node -v
+//verifying that It install correctly
+command: node
+//for exit
+comm: exit  & then 2times ctrl C
+
+
+////ls or dir to check in which file your are
+//How to run file in node js
+in terminal : node First.js
